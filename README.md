@@ -1,4 +1,4 @@
-[![Wise logo](https://res.cloudinary.com/traveliko/image/upload/c_scale,h_75/v1653285543/wink/logo_text.png)](https://wink.travel)
+[![Wise logo](https://github.com/wink-travel/wise-java-sdk/blob/develop/brand_logo.svg)](https://www.wise.com)
 
 # wise-java-sdk
 Wise.com Java SDK based on their publicly available Postman collection: https://api-docs.transferwise.com/
